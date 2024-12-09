@@ -1,0 +1,15 @@
+C:\repos\Roadmap-backend-csharp-dotnet\Curso-LINQ\bin\Debug\net8.0\Curso-LINQ.exe
+C:\repos\Roadmap-backend-csharp-dotnet\Curso-LINQ\bin\Debug\net8.0\Curso-LINQ.deps.json
+C:\repos\Roadmap-backend-csharp-dotnet\Curso-LINQ\bin\Debug\net8.0\Curso-LINQ.runtimeconfig.json
+C:\repos\Roadmap-backend-csharp-dotnet\Curso-LINQ\bin\Debug\net8.0\Curso-LINQ.dll
+C:\repos\Roadmap-backend-csharp-dotnet\Curso-LINQ\bin\Debug\net8.0\Curso-LINQ.pdb
+C:\repos\Roadmap-backend-csharp-dotnet\Curso-LINQ\obj\Debug\net8.0\Curso-LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Roadmap-backend-csharp-dotnet\Curso-LINQ\obj\Debug\net8.0\Curso-LINQ.AssemblyInfoInputs.cache
+C:\repos\Roadmap-backend-csharp-dotnet\Curso-LINQ\obj\Debug\net8.0\Curso-LINQ.AssemblyInfo.cs
+C:\repos\Roadmap-backend-csharp-dotnet\Curso-LINQ\obj\Debug\net8.0\Curso-LINQ.csproj.CoreCompileInputs.cache
+C:\repos\Roadmap-backend-csharp-dotnet\Curso-LINQ\obj\Debug\net8.0\Curso-LINQ.dll
+C:\repos\Roadmap-backend-csharp-dotnet\Curso-LINQ\obj\Debug\net8.0\refint\Curso-LINQ.dll
+C:\repos\Roadmap-backend-csharp-dotnet\Curso-LINQ\obj\Debug\net8.0\Curso-LINQ.pdb
+C:\repos\Roadmap-backend-csharp-dotnet\Curso-LINQ\obj\Debug\net8.0\Curso-LINQ.genruntimeconfig.cache
+C:\repos\Roadmap-backend-csharp-dotnet\Curso-LINQ\obj\Debug\net8.0\ref\Curso-LINQ.dll
+C:\repos\Roadmap-backend-csharp-dotnet\Curso-LINQ\bin\Debug\net8.0\books.json
