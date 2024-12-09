@@ -4,7 +4,8 @@ using projectEF;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddDbContext<TareasContext>(p => p.UseInMemoryDatabase("TareasDB"));
+// builder.Services.AddDbContext<TareasContext>(p => p.UseInMemoryDatabase("TareasDB")); // Base de datos en memoria
+builder.Services.AddSqlServer<TareasContext>(builder.Configuration.GetConnectionString("DefaultConnection")); // Base de datos SQL Server
 
 var app = builder.Build();
 
