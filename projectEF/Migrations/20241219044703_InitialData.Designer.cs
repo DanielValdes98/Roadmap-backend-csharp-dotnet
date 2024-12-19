@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using projectEF;
 
@@ -11,9 +12,11 @@ using projectEF;
 namespace projectEF.Migrations
 {
     [DbContext(typeof(TareasContext))]
-    partial class TareasContextModelSnapshot : ModelSnapshot
+    [Migration("20241219044703_InitialData")]
+    partial class InitialData
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -95,7 +98,7 @@ namespace projectEF.Migrations
                             TareaId = new Guid("f36c7b0b-bdcf-4c76-8d18-a426c57fc413"),
                             CategoriaId = new Guid("f36c7b0b-bdcf-4c76-8d18-a426c57fc477"),
                             Descripcion = "Descripción del pago",
-                            FechaCreacion = new DateTime(2024, 12, 18, 23, 49, 22, 184, DateTimeKind.Local).AddTicks(9513),
+                            FechaCreacion = new DateTime(2024, 12, 18, 23, 47, 2, 856, DateTimeKind.Local).AddTicks(1135),
                             PrioridadTarea = 2,
                             Titulo = "Revisar pago de servicios publicos"
                         },
@@ -104,7 +107,7 @@ namespace projectEF.Migrations
                             TareaId = new Guid("f36c7b0b-bdcf-4c76-8d18-a426c57fc412"),
                             CategoriaId = new Guid("f36c7b0b-bdcf-4c76-8d18-a426c57fc402"),
                             Descripcion = "Descripción de la compra",
-                            FechaCreacion = new DateTime(2024, 12, 18, 23, 49, 22, 185, DateTimeKind.Local).AddTicks(9982),
+                            FechaCreacion = new DateTime(2024, 12, 18, 23, 47, 2, 857, DateTimeKind.Local).AddTicks(2093),
                             PrioridadTarea = 1,
                             Titulo = "Comprar regalo de cumpleaños"
                         });
