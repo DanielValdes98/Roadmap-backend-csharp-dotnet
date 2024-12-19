@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using projectEF;
+using projectEF.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,6 +16,12 @@ app.MapGet("/dbconexion", async ([FromServices] TareasContext dbContext) =>
 {
     await dbContext.Database.EnsureCreatedAsync();
     return Results.Ok($"Base de datos en memoria: {dbContext.Database.IsInMemory()}");
+});
+
+app.MapGet("/api/tareas", async ([FromServices] TareasContext dbContext) => 
+{
+    var tareas = await dbContext.Tareas.Include(t => t.Categoria).ToListAsync();
+    return Results.Ok(tareas);
 });
 
 app.Run();
