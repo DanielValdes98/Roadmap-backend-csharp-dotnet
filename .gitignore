@@ -17,3 +17,15 @@ bin/
 # Todos lo archivos que termine cache
 cache/
 
+# Archivos generados por compilación y VS
+*.cache
+*.suo
+*.vsdx
+*.json
+*.backup.json
+*.vsidx
+
+# Archivos de bases de datos temporales
+*.db-shm
+*.db-wal
+
