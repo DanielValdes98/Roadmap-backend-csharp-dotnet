@@ -1,29 +1,6 @@
-projectEF/obj/Debug/net9.0/projectEF.AssemblyInfo.cs
-projectEF/obj/Debug/net9.0/projectEF.AssemblyInfoInputs.cache
-projectEF/obj/Debug/net9.0/projectEF.AssemblyInfo.cs
-projectEF/obj/Debug/net9.0/projectEF.AssemblyInfoInputs.cache
-projectEF/obj/Debug/net9.0/projectEF.AssemblyInfo.cs
-projectEF/obj/Debug/net9.0/projectEF.AssemblyInfoInputs.cache
-projectEF/obj/Debug/net9.0/projectEF.AssemblyInfo.cs
-projectEF/obj/Debug/net9.0/projectEF.AssemblyInfoInputs.cache
-projectEF/obj/Debug/net9.0/projectEF.AssemblyInfo.cs
-projectEF/obj/Debug/net9.0/projectEF.AssemblyInfoInputs.cache
-projectEF/obj/Debug/net9.0/projectEF.AssemblyInfo.cs
-projectEF/obj/Debug/net9.0/projectEF.AssemblyInfoInputs.cache
-projectEF/obj/Debug/net9.0/projectEF.AssemblyInfo.cs
-projectEF/obj/Debug/net9.0/projectEF.AssemblyInfoInputs.cache
-projectEF/obj/Debug/net9.0/projectEF.AssemblyInfo.cs
-projectEF/obj/Debug/net9.0/projectEF.AssemblyInfoInputs.cache
-projectEF/obj/Debug/net9.0/projectEF.AssemblyInfo.cs
-projectEF/obj/Debug/net9.0/projectEF.AssemblyInfoInputs.cache
-projectEF/obj/Debug/net9.0/projectEF.AssemblyInfo.cs
-projectEF/obj/Debug/net9.0/projectEF.AssemblyInfoInputs.cache
-projectEF/obj/Debug/net9.0/projectEF.AssemblyInfo.cs
-
-# files .gitignore for unit-testing-csharp project
-unit-testing-csharp/bin/
-unit-testing-csharp/obj/Debug/net9.0/unit-testing-csharp.AssemblyInfo.cs
-unit-testing-csharp/obj/Debug/net9.0/unit-testing-csharp.AssemblyInfoInputs.cache
+# Todos los archivos que terminen en AssemblyInfo.cs y AssemblyInfoInputs.cache
+**/obj/Debug/net9.0/*AssemblyInfo.cs
+**/obj/Debug/net9.0/*AssemblyInfoInputs.cache
 
 # Todos lo archivos que termine .dll
 *.dll
