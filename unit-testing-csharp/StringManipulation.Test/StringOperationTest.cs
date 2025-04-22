@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Microsoft.Extensions.Logging;
+using Moq;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -87,6 +89,18 @@ namespace StringManipulation.Test
 
             // Assert
             Assert.Equal(expected, result);
+        }
+
+        [Fact]
+        public void CountOccurrences()
+        {
+            var mockLogger = new Mock<ILogger<StringOperations>>();
+
+            var strOperation = new StringOperations(mockLogger.Object);
+
+            var result = strOperation.CountOccurrences("Hello platzi", 'l');
+
+            Assert.Equal(3, result);
         }
     }
 }
