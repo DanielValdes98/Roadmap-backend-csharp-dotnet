@@ -3,11 +3,21 @@
   "WorkspaceRootPath": "C:\\repos\\Roadmap-backend-csharp-dotnet\\unit-testing-csharp\\StringManipulation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{009069DD-BEF4-4B75-93B0-F34B9FE0BEB3}|..\\StringManipulation.Test\\StringManipulation.Test.csproj|c:\\repos\\roadmap-backend-csharp-dotnet\\unit-testing-csharp\\stringmanipulation.test\\stringoperationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DANIEL\\.nuget\\packages\\reportgenerator\\5.4.5\\Readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009069DD-BEF4-4B75-93B0-F34B9FE0BEB3}|..\\StringManipulation.Test\\StringManipulation.Test.csproj|c:\\repos\\roadmap-backend-csharp-dotnet\\unit-testing-csharp\\stringmanipulation.test\\stringmanipulation.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B712199C-C52C-4911-AE2A-7CC4F2B131E0}|StringManipulation.csproj|c:\\repos\\roadmap-backend-csharp-dotnet\\unit-testing-csharp\\stringmanipulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B712199C-C52C-4911-AE2A-7CC4F2B131E0}|StringManipulation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B712199C-C52C-4911-AE2A-7CC4F2B131E0}|StringManipulation.csproj|c:\\repos\\roadmap-backend-csharp-dotnet\\unit-testing-csharp\\stringmanipulation\\stringoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B712199C-C52C-4911-AE2A-7CC4F2B131E0}|StringManipulation.csproj|solutionrelative:stringoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009069DD-BEF4-4B75-93B0-F34B9FE0BEB3}|..\\StringManipulation.Test\\StringManipulation.Test.csproj|c:\\repos\\roadmap-backend-csharp-dotnet\\unit-testing-csharp\\stringmanipulation.test\\stringoperationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,17 +27,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "StringOperations.cs",
               "DocumentMoniker": "C:\\repos\\Roadmap-backend-csharp-dotnet\\unit-testing-csharp\\StringManipulation\\StringOperations.cs",
               "RelativeDocumentMoniker": "StringOperations.cs",
               "ToolTip": "C:\\repos\\Roadmap-backend-csharp-dotnet\\unit-testing-csharp\\StringManipulation\\StringOperations.cs",
               "RelativeToolTip": "StringOperations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAYwGYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T22:26:05.497Z",
               "IsPinned": true,
@@ -35,16 +45,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "StringOperationTest.cs",
               "DocumentMoniker": "C:\\repos\\Roadmap-backend-csharp-dotnet\\unit-testing-csharp\\StringManipulation.Test\\StringOperationTest.cs",
               "RelativeDocumentMoniker": "..\\StringManipulation.Test\\StringOperationTest.cs",
               "ToolTip": "C:\\repos\\Roadmap-backend-csharp-dotnet\\unit-testing-csharp\\StringManipulation.Test\\StringOperationTest.cs",
               "RelativeToolTip": "..\\StringManipulation.Test\\StringOperationTest.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAcwGUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAgwHcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T23:03:21.524Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringManipulation.Test",
+              "DocumentMoniker": "C:\\repos\\Roadmap-backend-csharp-dotnet\\unit-testing-csharp\\StringManipulation.Test\\StringManipulation.Test.csproj",
+              "RelativeDocumentMoniker": "..\\StringManipulation.Test\\StringManipulation.Test.csproj",
+              "ToolTip": "C:\\repos\\Roadmap-backend-csharp-dotnet\\unit-testing-csharp\\StringManipulation.Test\\StringManipulation.Test.csproj",
+              "RelativeToolTip": "..\\StringManipulation.Test\\StringManipulation.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T17:47:38.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Readme.txt",
+              "DocumentMoniker": "C:\\Users\\DANIEL\\.nuget\\packages\\reportgenerator\\5.4.5\\Readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\DANIEL\\.nuget\\packages\\reportgenerator\\5.4.5\\Readme.txt",
+              "ToolTip": "C:\\Users\\DANIEL\\.nuget\\packages\\reportgenerator\\5.4.5\\Readme.txt",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\DANIEL\\.nuget\\packages\\reportgenerator\\5.4.5\\Readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-23T17:48:11.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\repos\\Roadmap-backend-csharp-dotnet\\unit-testing-csharp\\StringManipulation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\repos\\Roadmap-backend-csharp-dotnet\\unit-testing-csharp\\StringManipulation\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:27:44.347Z",
               "EditorCaption": ""
             }
           ]
